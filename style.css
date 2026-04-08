@@ -1,0 +1,26 @@
+     nav {
+        background-color: aquamarine;
+    }
+    header {
+        background-color: olive;
+        text-align: center;
+    }
+
+    section {background-color: aqua}
+    footer {
+        background-color: blue;
+        text-align: center;
+    }
+    article {
+        background-color: skyblue;
+    }
+    a {
+        color: white;
+    }
+    h1 {
+        color: white;
+    }
+
+    * {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
